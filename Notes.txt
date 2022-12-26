@@ -1,0 +1,20 @@
+Que -What is CDN 
+Ans- A CDN is a network of servers that distributes content from an “origin” server throughout the world by caching content close to where each end user is accessing the internet via a web-enabled device..
+
+Que-● What is crossorigin in script tag?
+Ans-It allows you to type shortcuts that are then expanded into full pieces of code.The crossorigin attribute sets the mode of the request to an HTTP CORS Request. Web pages often make requests to load resources on other servers. 
+
+
+Que- Difference between a Library and Framework?
+And-The main distinction between a framework and a library is that a framework inverts program control. It informs the developer of what they require. A library, however, does not. Instead, a programmer calls the library when and where he needs it.
+
+
+Que-What is diference between React and ReactDOM ?
+Ans-React library is responsible for creating views and ReactDOM library is responsible to actually render UI in the browser
+
+Que -What is async and defer?
+Async - means execute code when it is downloaded and do not block DOM construction during downloading process.
+Defer - means execute code after it's downloaded and browser finished DOM construction and rendering process.
+
+
+
